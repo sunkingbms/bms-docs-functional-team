@@ -1,0 +1,30 @@
+# ====================================================
+# OBSIDIAN — PERSONAL FILES (never commit these)
+# ====================================================
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.cache
+.obsidian/plugins/
+ 
+.obsidian/app.json             
+.obsidian/appearance.json      
+.obsidian/hotkeys.json         
+.obsidian/community-plugins.json
+.obsidian/graph.json           
+
+# Personal scratch space (private to each user)
+06-INBOX/*
+!06-INBOX/.gitkeep
+ 
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+ 
+# Editor temp files
+*.tmp
+*.bak
+
