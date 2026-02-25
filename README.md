@@ -1,4 +1,4 @@
-# 📚 BMS Functional Knowledge Vault — Onboarding Guide
+# BMS Functional Knowledge Vault — Onboarding Guide
 
 Welcome to the team! This guide walks you through everything you need to set up your computer,
 join our shared knowledge vault, and contribute notes every day, even if you have never used
